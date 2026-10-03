@@ -50,8 +50,8 @@ I'm a **skid** vibecoder focusing on crypto, scripting and APIs. Currently build
 
 | Asset | Network | Address |
 | :--- | :--- | :--- |
-| **BTC** | Bitcoin Native | `bc1q...` | bc1qwvnr2knd6t6d8aqu0xgquq2gqvl863908sk3yf
-| **ETH** | Ethereum / Arbitrum | `0x...` | 0xcE4B9DcA3C0Bb60b89C50E2E8F45965819cFd263
-| **SOL** | Solana | `...` | 7RtcG3awgtGBtLWTt3a1n5r1wnBDT26sF5QezA2oVPZN
+| **BTC** | Bitcoin Native | `bc1qwvnr2knd6t6d8aqu0xgquq2gqvl863908sk3yf` | bc1qwvnr2knd6t6d8aqu0xgquq2gqvl863908sk3yf
+| **ETH** | Ethereum / Arbitrum | `0xcE4B9DcA3C0Bb60b89C50E2E8F45965819cFd263` | 
+| **SOL** | Solana | `7RtcG3awgtGBtLWTt3a1n5r1wnBDT26sF5QezA2oVPZN` | 
 
 </details>
